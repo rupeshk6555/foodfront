@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'https://demomern-backend.onrender.com',
+  baseURL: 'https://food-backend-7h6l.onrender.com',
 });
 
 //"start": "node ./backend/server.js",
